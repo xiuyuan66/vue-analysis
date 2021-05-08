@@ -1,4 +1,4 @@
-# vue-router-analysis
+# vue-analysis
 
 ## Project setup
 ```
